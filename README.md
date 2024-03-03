@@ -1,4 +1,7 @@
 # Day13-Design-Doc
-Day 13 was a debugging focused day with no core project, so I uploaded a tech spec/design doc for a game project for an operating systems class.
-The tech spec outlines design constraints, system architecture, executive summary, domain model, development requirements and included all recommendations.
-I will post a text file with all information copied over and also the docx file. 
+Raw file included as well as text file to summarize.
+The Gaming Room client sought the development of a cross-platform web game, inspired by "Draw It or Lose It," an Android-exclusive game. The objective was to create a game accommodating multiple teams, each with multiple players, engaging in four rounds, with each round lasting a minute. The game's mechanics involved teams guessing images within a time limit, with an opportunity for opposing teams to answer if the original team failed.
+
+The documentation provides a comprehensive overview of the project, detailing requirements, design constraints, system architecture, domain model, evaluation of operating platforms, and recommendations. Particularly well-executed aspects include the thorough analysis of operating platforms' advantages and limitations, detailed descriptions of system architecture, and recommendations tailored to specific project needs. The process of working through the design document facilitated a clear understanding of project requirements and allowed for systematic planning and implementation in the code.
+
+One aspect to revise could be the clarity and organization of the domain model section, ensuring a more streamlined presentation of class relationships and responsibilities. It's crucial to consider user needs during design as it ensures the software aligns with user expectations, enhancing usability and satisfaction. Approaching software design involved identifying core functionalities, defining class relationships, and considering scalability and extensibility. In the future, techniques like user story mapping and prototyping could be employed to further refine and validate software design decisions.
